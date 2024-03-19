@@ -3,3 +3,7 @@ hello guys
 git add . it is used to add the multiple files in the stage
 
 git barnch -today we are gng to dicuss.
+
+git checkout -move location from branch to branch.
+
+git switch -  same as git checkout
