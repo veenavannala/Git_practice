@@ -6,5 +6,10 @@ int main()
 
     printf("Hi veena");
 
+    int a=10;
+    int b=20;
+
+    printf("Addition is :%d",a+b);
+
     return 0;
 }
