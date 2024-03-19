@@ -1,5 +1,3 @@
 hello guys
 
 git add . it is used to add the multiple files in the stage
-
-git status-it checks the current directory.

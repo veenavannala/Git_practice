@@ -13,5 +13,8 @@ int main()
     printf("1,2,3,4,5,6");
     
 
+    printf("organes Added");
+    printf("Apples Added");
+
     return 0;
 }
