@@ -11,7 +11,8 @@ int main()
 
     printf("Addition is :%d",a+b);
 
-    ptintf("organes Added");
+    printf("organes Added");
+    printf("Apples Added");
 
     return 0;
 }
