@@ -1,0 +1,3 @@
+hello guys
+
+git add . it is used to add the multiple files in the stage
