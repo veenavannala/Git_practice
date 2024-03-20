@@ -17,5 +17,7 @@ int main()
     printf("Apples Added");
     printf("Enhancement added \n");
 
+    printf("no commit");
+
     return 0;
 }
